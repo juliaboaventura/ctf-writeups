@@ -36,7 +36,4 @@ e segunda letra obrigatoriamente e
 
 u quarta letra obrigatoriamente u
 
-Resultado
--
-O filtro retornou os nomes que respeitam o padrão, e o nome encontrado foi utilizado como flag.
-Flag: Jesus
+
