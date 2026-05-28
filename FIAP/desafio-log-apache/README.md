@@ -44,8 +44,3 @@ uniq -c conta quantas vezes cada linha consecutiva se repete
 
 sort no final reordena pelo número de ocorrências, colocando o maior por último
 
-Resultado
--
-O IP com maior número de requisições apareceu com a contagem mais alta ao fim do pipeline.
-
-Flag: 66.249.73.135
