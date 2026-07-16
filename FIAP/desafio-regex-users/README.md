@@ -1,11 +1,3 @@
-Desafio Busca por Regex
-
-Categoria: Regex / PowerShell
-
-Ferramenta principal: Where-Object com -match
-
-Flag: Jesus
-
 Descrição do desafio
 -
 "O arquivo users.txt contém 1098 usuários cadastrados. O objetivo era encontrar os usuários cujo nome possui a vogal e como segunda letra e a vogal u como quarta letra, utilizando REGEX no terminal."
