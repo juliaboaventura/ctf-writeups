@@ -1,11 +1,3 @@
-Desafio IP Suspeito no Apache
-
-Categoria: Log Analysis
-
-Ferramenta principal: awk, sort, uniq
-
-Flag: 66.249.73.135
-
 Descrição do desafio
 -
 "O servidor web estava recebendo uma quantidade expressiva de requisições. Com o arquivo logs.txt de um servidor Apache em mãos, o objetivo era descobrir qual IP fez o maior número de requisições — um indicativo clássico de varredura ou ataque."
